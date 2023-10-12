@@ -1,0 +1,2 @@
+# diabetes-classification
+classification problem
